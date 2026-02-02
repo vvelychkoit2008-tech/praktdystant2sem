@@ -108,8 +108,9 @@ class HashTableLinearProbing
         while (table[index] != null)
         {
             if (table[index] == value)
+            {
                 return false;
-
+            }
             index = (index + 1) % size;
         }
         table[index] = value;
@@ -120,11 +121,12 @@ class HashTableLinearProbing
         int index = Program.SimpleHash(value, size);
         while (table[index] != null)
         {
-            if (table[index] == value)
+            if (table[index] == value) {
                 return true;
-
+            }
             index = (index + 1) % size;
         }
         return false;
     }
 }
+
