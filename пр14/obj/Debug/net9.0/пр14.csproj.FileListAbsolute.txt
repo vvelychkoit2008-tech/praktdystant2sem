@@ -1,0 +1,15 @@
+c:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\bin\Debug\net9.0\пр14.exe
+C:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\bin\Debug\net9.0\пр14.deps.json
+C:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\bin\Debug\net9.0\пр14.runtimeconfig.json
+c:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\bin\Debug\net9.0\пр14.dll
+c:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\bin\Debug\net9.0\пр14.pdb
+c:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\obj\Debug\net9.0\пр14.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\obj\Debug\net9.0\пр14.AssemblyInfoInputs.cache
+c:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\obj\Debug\net9.0\пр14.AssemblyInfo.cs
+c:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\obj\Debug\net9.0\пр14.csproj.CoreCompileInputs.cache
+c:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\obj\Debug\net9.0\пр14.sourcelink.json
+c:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\obj\Debug\net9.0\пр14.dll
+c:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\obj\Debug\net9.0\refint\пр14.dll
+c:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\obj\Debug\net9.0\пр14.pdb
+C:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\obj\Debug\net9.0\пр14.genruntimeconfig.cache
+C:\Users\velyc\Desktop\практичні 3 КУРС 2 семестр\ооп\пр14\obj\Debug\net9.0\ref\пр14.dll
